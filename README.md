@@ -1,7 +1,8 @@
 ### Hi there 👋
 
+<img alt="Swift" src ="https://img.shields.io/badge/-Swift-orange.svg"/> 
+
 - 🍎 Want to be a good iOS Developer 
-- skills: <img alt="Swift" src ="https://img.shields.io/badge/-Swift-orange.svg"/> 
 - blog: [woody](https://wodyios.tistory.com)
 
 
