@@ -6,7 +6,7 @@
 - blog: [woody](https://wodyios.tistory.com)
 
 
- ![Jaeyong's GitHub stats](https://github-readme-stats.vercel.app/api?username=wody27&show_icons=true&theme=synthwave)
+ ![Jaeyong's GitHub stats](https://github-readme-stats.vercel.app/api?username=wody-d&show_icons=true&theme=synthwave)
 
 
 <!--
