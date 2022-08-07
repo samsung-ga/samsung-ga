@@ -3,7 +3,9 @@
 <img alt="Swift" src ="https://img.shields.io/badge/-Swift-orange.svg"/> 
 
 - 🍎 Want to be a good iOS Developer 
-- blog: [woody](https://www.wodyd.com)
+- blog: 
+  - a. 현재 블로그: [wodyd](https://www.wodyd.com)
+  - b. 이전 블로그: [티스토리](https://wodyios.tistory.com)
 
 
  ![Jaeyong's GitHub stats](https://github-readme-stats.vercel.app/api?username=wody-d&show_icons=true&theme=synthwave)
