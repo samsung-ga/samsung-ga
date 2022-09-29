@@ -49,11 +49,11 @@
 ### More Information 🧑🏻‍💻
 ---- 
 
-- Posting Articles steadily for sharing 📖 <br /> <a href="https://www.wodyd.com"/><img src="https://img.shields.io/badge/치맥보단 개발-663399?style=flat-square&logo=Gatsby&logoColor=white" /></a> <a href="https://wodyios.tistory.com"><img src="https://img.shields.io/badge/WoodyiOS-ffffff?style=flat-square&logo=tistory&logoColor=black"/></a> 
+- 📖 Posting Articles steadily for sharing: <a href="https://www.wodyd.com"/><img src="https://img.shields.io/badge/치맥보단 개발-663399?style=flat-square&logo=Gatsby&logoColor=white" /></a> <a href="https://wodyios.tistory.com"><img src="https://img.shields.io/badge/WoodyiOS-ffffff?style=flat-square&logo=tistory&logoColor=black"/></a> 
 
-- Today I Learned ✏️ <br /> <a href="https://github.com/wody-d/woody-iOS-tip"><img src="https://img.shields.io/badge/TIL-22272e?style=flat-square&logo=github&logoColor=white"/></a>
+- ✏️ Today I Learned: <a href="https://github.com/wody-d/woody-iOS-tip"><img src="https://img.shields.io/badge/TIL-22272e?style=flat-square&logo=github&logoColor=white"/></a>
 
-- Solving Algorithm 💻 <br /> <a href="https://github.com/wody-d/algorithm-study"><img src="https://img.shields.io/badge/algorithm-E5511E?style=flat-square&logo=github&logoColor=white"/></a>
+- 💻 Solving Algorithm:  <a href="https://github.com/wody-d/algorithm-study"><img src="https://img.shields.io/badge/algorithm-E5511E?style=flat-square&logo=github&logoColor=white"/></a>
 
 ### Trophies
 ----
