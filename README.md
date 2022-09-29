@@ -1,10 +1,8 @@
-# Welcome Everyone <br /> I'm Woody
+# <img align="right" src="https://github-readme-stats.vercel.app/api?username=wody-d&show_icons=true&theme=synthwave"/> Welcome Everyone <br /> I'm Woody 
 
 <br /> 
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=wody-d&show_icons=true&theme=synthwave"/>
-
-- 🍎 My name is Jaeyong Lee, but
+- 🍎 My name is Jaeyong Lee, but!
 - 📱 I'm an iOS Developer
 - ✨ Love learing something new in general 
 - 🖥 Making beautiful beloved iOS apps using UIKit/SwiftUI
