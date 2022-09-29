@@ -32,7 +32,7 @@
 - 🛖 2021.01 ~ 2021.02 Involved in a club [Nexters](https://github.com/Nexters) < <img src="https://avatars.githubusercontent.com/u/4995702?s=200&v=4" width="20" /> > 
   - 18st Member as an iOS Developer
   - Launched App Gift.zip (Drop from the App Store now)
-- 🛖 2019.09 ~ 2021.01 Involved in a club [SOPT](https://sopt.org)
+- 🛖 2019.09 ~ 2021.01 Involved in a club [SOPT](https://sopt.org) < <img src="https://avatars.githubusercontent.com/u/58100660?s=64&v=4" width="20"> > <  <img src="https://avatars.githubusercontent.com/u/61865186?s=200&v=4" width="20"> > < <img src="https://avatars.githubusercontent.com/u/65766171?s=64&v=4" width="20"> >
   - 26th, 27th Member as a iOS Developer
   - 25th Member as a Node Server Developer
   - Launched App 재고창고, BeMe (Drop from the App Store now)
