@@ -2,9 +2,9 @@
 
 <br /> 
 
-<img align="right" width="200" src="https://user-images.githubusercontent.com/56102421/192930511-ca2fe9a2-198d-4978-93a0-9a261746ed2a.png" />
+<img align="right" width="300" src="https://user-images.githubusercontent.com/56102421/192975147-3368d0b5-2dc6-48ad-af66-ed10ca861125.gif">
 
-- 🍎 My name is Jaeyong Lee, but!
+- 🍎 My name is Jaeyong Lee, but!!
 - 📱 I'm an iOS Developer
 - ✨ Love learing something new in general 
 - 🖥 Making beautiful beloved iOS apps using UIKit/SwiftUI
@@ -28,7 +28,7 @@
   - Launched App [메리팅](https://apps.apple.com/kr/app/메리팅/id1641033611)
 - 🏢 2021.08 ~ 2021.12 Worked for Start Up [(주) 제트시티](http://www.zetciti.com) 
   - Worked in Mobile department, iOS Developer
-  - Participated in a [프로잼 - prezem project](https://apps.apple.com/kr/app/프레잼-prezem/id1596210269)
+  - Participated in a [프레잼 - prezem project](https://apps.apple.com/kr/app/프레잼-prezem/id1596210269)
 - 🛖 2021.01 ~ 2021.02 Involved in a club [Nexters](https://github.com/Nexters) < <img src="https://avatars.githubusercontent.com/u/4995702?s=200&v=4" width="20" /> > 
   - 18st Member as an iOS Developer
   - Launched App Gift.zip (Drop from the App Store now)
