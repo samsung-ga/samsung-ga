@@ -2,17 +2,15 @@
 
 <br /> 
 
-<img align="right" width="300" src="https://user-images.githubusercontent.com/56102421/192975147-3368d0b5-2dc6-48ad-af66-ed10ca861125.gif">
+<img align="right" width="250" src="https://user-images.githubusercontent.com/56102421/192977847-a23f6bdd-081f-462c-b1a2-d024dddf036c.gif">
 
 - 🍎 My name is Jaeyong Lee, but!!
 - 📱 I'm an iOS Developer
-- ✨ Love learing something new in general 
+- ✨ I love learing something new in general, and
 - 🖥 Making beautiful beloved iOS apps using UIKit/SwiftUI
 - 📫 Reach me : maxwodyd98@gmail.com
 
 <a href="https://github.com/wody-d"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fwody-d%2Fhit-counter&count_bg=%23000000&title_bg=%23000000&icon=github.svg&icon_color=%23FFFFFF&title=GitHub&edge_flat=false"/></a> <a href="https://solved.ac/profile/maxx1027"><img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=maxx1027"/></a>
-
-<br />
 
 <br />
 
