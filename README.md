@@ -1,4 +1,4 @@
-<h1>Welcome Everyone <br /> I'm Woody <img align="center" width="100" src="https://user-images.githubusercontent.com/56102421/192977847-a23f6bdd-081f-462c-b1a2-d024dddf036c.gif">
+<h1>Welcome everyone,<br /> I'm Woody <img align="center" width="100" src="https://user-images.githubusercontent.com/56102421/192977847-a23f6bdd-081f-462c-b1a2-d024dddf036c.gif">
 </h1>
 
 <br /> 
@@ -13,7 +13,7 @@
 
 <br />
 
-### Work and Other Experience 
+### Work and Other Experiences 
 
 ----
 
