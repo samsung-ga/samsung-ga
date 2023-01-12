@@ -1,4 +1,4 @@
-<h1>Welcome everyone,<br /> I'm Woody <img align="center" width="100" src="https://user-images.githubusercontent.com/56102421/192977847-a23f6bdd-081f-462c-b1a2-d024dddf036c.gif">
+<h1>Hi everyone,<br /> I'm Woody <img align="center" width="100" src="https://user-images.githubusercontent.com/56102421/192977847-a23f6bdd-081f-462c-b1a2-d024dddf036c.gif">
 </h1>
 
 <br /> 
@@ -17,7 +17,7 @@
 
 ----
 
-- 🏫 2022.03 ~ Studying at [Apple Devloper Academy @ Postech 1st](https://developeracademy.postech.ac.kr)
+- 🏫 2022.03 ~ 2022.12 Studying at [Apple Devloper Academy @ Postech 1st](https://developeracademy.postech.ac.kr)
   - Working as an iOS Developer 
   - Launched App [돈.워리](https://apps.apple.com/kr/app/돈-워리/id1643097323)
 - 🛖 2021.09 ~ Involved in a club [Mash-Up](https://github.com/mash-up-kr) < <img src="https://avatars.githubusercontent.com/u/17095685?s=200&v=4" width="20" /> > 
@@ -34,28 +34,9 @@
   - 25th Member as a Node Server Developer
   - Launched App 재고창고, BeMe (Drop from the App Store now)
 
-### Tech Stack 
-----
-<div align="center">  <b>I usually use</b> <br /> <br /> <img src="https://img.shields.io/badge/swift-F05138?style=flat-square&logo=swift&logoColor=white"/> <img src="https://img.shields.io/badge/iOS-black?style=flat-square&logo=swift&logoColor=white" /> <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white" /> <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white" /> <img src="https://img.shields.io/badge/ReactiveX-B7178C?style=flat-square&logo=ReactiveX&logoColor=white" /> </div>
-
-<br />
-
-
-<div align="center"> <b>I've used once</b> <br /> <br /> <img src="https://img.shields.io/badge/swiftUI-F05138?style=flat-square&logo=swift&logoColor=white"/> <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white" /> <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white" /> <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white" /> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white" /> <img src="https://img.shields.io/badge/Amazon RDS-527FFF?style=flat-square&logo=Amazon RDS&logoColor=white" /> <img src="https://img.shields.io/badge/Amazon S3-569A31?style=flat-square&logo=Amazon S3&logoColor=white" /> <img src="https://img.shields.io/badge/Amazon EC2-FF9900?style=flat-square&logo=Amazon EC2&logoColor=white" /> </div>
-
-<br />
-
 ### More Information 🧑🏻‍💻
 ---- 
 
-- 📖 Posting Articles steadily for sharing: <a href="https://www.wodyd.com"/><img src="https://img.shields.io/badge/이재용의 iOS-663399?style=flat-square&logo=Gatsby&logoColor=white" /></a> <a href="https://wodyios.tistory.com"><img src="https://img.shields.io/badge/WoodyiOS-ffffff?style=flat-square&logo=tistory&logoColor=black"/></a> 
+📖 ✏️ 🤔
 
-- ✏️ Today I Learned: <a href="https://github.com/wody-d/woody-iOS-tip"><img src="https://img.shields.io/badge/TIL-22272e?style=flat-square&logo=github&logoColor=white"/></a>
-
-- 💻 Solving Algorithm:  <a href="https://github.com/wody-d/algorithm-study"><img src="https://img.shields.io/badge/algorithm-E5511E?style=flat-square&logo=github&logoColor=white"/></a>
-
-<br />
-
-----
-
-<img width=1200 src="https://github-profile-trophy.vercel.app/?username=wody-d&margin-w=15&no-frame=true"/>
+<a href="https://www.wodyd.com"/><img src="https://img.shields.io/badge/이재용의 iOS-663399?style=flat-square&logo=Gatsby&logoColor=white" /></a> <a href="https://wodyios.tistory.com"><img src="https://img.shields.io/badge/WoodyiOS-ffffff?style=flat-square&logo=tistory&logoColor=black"/></a> <a href="https://github.com/wody-d/woody-iOS-tip"><img src="https://img.shields.io/badge/TIL-22272e?style=flat-square&logo=github&logoColor=white"/></a> <a href="https://github.com/wody-d/algorithm-study"><img src="https://img.shields.io/badge/algorithm-E5511E?style=flat-square&logo=github&logoColor=white"/></a>
