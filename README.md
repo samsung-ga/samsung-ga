@@ -9,7 +9,8 @@
 - 🖥 Making beautiful beloved iOS apps using UIKit/SwiftUI
 - 📫 Reach me : maxwodyd98@gmail.com
 
-<a href="https://github.com/wody-d"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fwody-d%2Fhit-counter&count_bg=%23000000&title_bg=%23000000&icon=github.svg&icon_color=%23FFFFFF&title=GitHub&edge_flat=false"/></a> <a href="https://solved.ac/profile/maxx1027"><img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=maxx1027"/></a>
+<a href="https://github.com/wody-d"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fwody-d%2Fhit-counter&count_bg=%23000000&title_bg=%23000000&icon=github.svg&icon_color=%23FFFFFF&title=GitHub&edge_flat=false"/></a> <a href="https://solved.ac/profile/maxx1027"><img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=maxx1027"/></a> 
+<a href="https://www.wodyd.com"/><img src="https://img.shields.io/badge/이재용의 iOS-663399?style=flat-square&logo=Gatsby&logoColor=white" /></a> <a href="https://wodyios.tistory.com"><img src="https://img.shields.io/badge/algorithm-E5511E?style=flat-square&logo=tistory&logoColor=white"/></a> <a href="https://github.com/wody-d/woody-iOS-tip"><img src="https://img.shields.io/badge/TIL-22272e?style=flat-square&logo=github&logoColor=white"/></a>
 
 <br />
 
@@ -17,7 +18,7 @@
 
 ----
 
-- 🏫 2022.03 ~ 2022.12 Studying at [Apple Devloper Academy @ Postech 1st](https://developeracademy.postech.ac.kr)
+- 🏫 2022.03 ~ 2022.12 Studied at [Apple Devloper Academy @ Postech 1st](https://developeracademy.postech.ac.kr)
   - Working as an iOS Developer 
   - Launched App [돈.워리](https://apps.apple.com/kr/app/돈-워리/id1643097323)
 - 🛖 2021.09 ~ Involved in a club [Mash-Up](https://github.com/mash-up-kr) < <img src="https://avatars.githubusercontent.com/u/17095685?s=200&v=4" width="20" /> > 
@@ -33,10 +34,3 @@
   - 26th, 27th Member as a iOS Developer
   - 25th Member as a Node Server Developer
   - Launched App 재고창고, BeMe (Drop from the App Store now)
-
-### More Information 🧑🏻‍💻
----- 
-
-📖 ✏️ 🤔
-
-<a href="https://www.wodyd.com"/><img src="https://img.shields.io/badge/이재용의 iOS-663399?style=flat-square&logo=Gatsby&logoColor=white" /></a> <a href="https://wodyios.tistory.com"><img src="https://img.shields.io/badge/WoodyiOS-ffffff?style=flat-square&logo=tistory&logoColor=black"/></a> <a href="https://github.com/wody-d/woody-iOS-tip"><img src="https://img.shields.io/badge/TIL-22272e?style=flat-square&logo=github&logoColor=white"/></a> <a href="https://github.com/wody-d/algorithm-study"><img src="https://img.shields.io/badge/algorithm-E5511E?style=flat-square&logo=github&logoColor=white"/></a>
