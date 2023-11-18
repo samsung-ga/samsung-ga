@@ -18,6 +18,9 @@
 
 ----
 
+- 🏢 2023.01 ~ Worked for [Bucketplace](https://www.bucketplace.com)
+  - Working as an iOS Developer
+  - Participated in various [오늘의집](https://apps.apple.com/kr/app/오늘의집-라이프스타일-슈퍼앱/id1008236892) projects 
 - 🏫 2022.03 ~ 2022.12 Studied at [Apple Devloper Academy @ Postech 1st](https://developeracademy.postech.ac.kr)
   - Working as an iOS Developer 
   - Launched App [돈.워리](https://apps.apple.com/kr/app/돈-워리/id1643097323)
